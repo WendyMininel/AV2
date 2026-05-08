@@ -2,7 +2,6 @@ import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { useAuth } from '../../contexts/AuthContext';
 import styles from './Login.module.css';
-
 import fundoImage from '../../assets/fundo.jpg';
 
 const Login: React.FC = () => {
