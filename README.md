@@ -6,9 +6,13 @@ Sistema completo para gestão da produção de aeronaves, desenvolvido em React 
 
 ## Sobre o Projeto
 
-A **Aerocode** é uma empresa especializada no desenvolvimento de software para auxiliar indústrias brasileiras que constroem aeronaves para aviação civil e militar. Este sistema simula o processo de produção de uma aeronave, desde o cadastro inicial até a entrega final ao cliente, permitindo:
+A **Aerocode** é uma empresa especializada no desenvolvimento de software para auxiliar indústrias brasileiras que constroem aeronaves para aviação civil e militar. Este sistema simula o processo de produção de uma aeronave, desde o cadastro inicial até a entrega final ao cliente
 
-### Evolução do Sistema
+## Relatório
+[RELATÓRIO DE WIREFRAME - AV2 - wendy.pdf](https://github.com/user-attachments/files/27543903/RELATORIO.DE.WIREFRAME.-.AV2.-.wendy.pdf)
+
+
+## Evolução do Sistema
 
 Diferente da versão CLI (Command-Line Interface), esta versão Front-End foi desenvolvida como uma **Single Page Application (SPA)** utilizando **React** e **TypeScript**, oferecendo:
 
